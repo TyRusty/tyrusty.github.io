@@ -13,10 +13,7 @@ nav{
     height: 100px;
     background-color: white;
 }
- ul{
-
-
- }
+ 
  ul li{
    list-style: none;
    display: inline-block ;
