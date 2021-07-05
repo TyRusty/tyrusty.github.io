@@ -10,9 +10,16 @@
      height: 100%;
     
  }
+ h2{
+   font-size: 40px;
+   background-color: white;
+   margin: auto;
+   text-align: center;
+   padding-top: 2%;
+ }
  .wrapper {
    margin: 0 auto;
-   width: 90%;
+   width: 100%;
    min-height: 100%;
    background-color: white;
    padding-bottom: 100%;
@@ -36,6 +43,7 @@ display: block;
 text-decoration: none;
 font-size: 13px;
 padding: 30px;
+
 }
 
 #footer {
