@@ -14,7 +14,10 @@
  }
 .login-wrap{
 width:100%;
-margin:auto;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 660px;
 max-width:525px;
 min-height:670px;
 position:relative;
@@ -25,7 +28,7 @@ width:100%;
 height:100%;
 position:absolute;
 padding:90px 70px 50px 70px;
-background:white;
+background:rgb(213, 218, 221);;
 }
 .login-html .sign-in-htm,
 .login-html .sign-up-htm{
@@ -93,7 +96,7 @@ color:black;
 font-size:12px;
 }
 .login-form .group .button{
-background:rgb(119, 119, 245);
+background:rgb(10, 233, 85);
 }
 .login-form .group label .icon{
 width:15px;
@@ -127,7 +130,7 @@ transform:scale(0) rotate(0);
 color:black;
 }
 .login-form .group .check:checked + label .icon{
-background:rgb(119, 119, 245);
+background:rgb(119, 245, 130);
 }
 .login-form .group .check:checked + label .icon:before{
 transform:scale(1) rotate(45deg);
@@ -145,10 +148,18 @@ transform:rotate(0);
 .hr{
 height:2px;
 margin:60px 0 50px 0;
-background:rgb(119, 119, 245);
+background:rgb(10, 233, 85);
 }
 .foot-lnk{
 text-align:center;
 }
 
-
+#footer {
+    background-color: rgb(49, 42, 42);
+    position: relative;
+    height: 100px;
+    margin-top: 1%;
+  
+    
+    
+  }
