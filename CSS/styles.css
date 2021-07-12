@@ -29,7 +29,7 @@ section{
 	max-width: 80rem;
 	margin: 0 auto;
 	padding: 0 1.5rem;
-	
+
 }
 
 .hardware-item{
@@ -57,7 +57,7 @@ section{
 .hardware-item i{
 	color:#e7d5ff;
 	padding: .5rem;
-	
+
 }
 
 
@@ -83,7 +83,7 @@ section{
 	top: 50%;
 	left: 0;
 	transform: translateY(-50%);
-	
+
 }
 
 
@@ -106,4 +106,3 @@ section{
 .hardware-item:target .hardware-link .ion-md-remove{
 	display: block;
 }
-
