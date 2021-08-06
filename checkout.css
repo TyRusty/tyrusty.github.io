@@ -91,3 +91,12 @@ span.price {
   float: right;
   color: grey;
 }
+#footer {
+  background-color: rgb(49, 42, 42);
+  position: relative;
+  height: 100px;
+  margin-top: 20%;
+
+
+
+}
